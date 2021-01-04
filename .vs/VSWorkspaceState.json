@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Componets",
+    "\\src\\Componets\\Header",
+    "\\src\\Componets\\SignIn",
+    "\\src\\Firebase"
+  ],
+  "SelectedNode": "\\src\\Componets\\SignIn\\SignIn.component.js",
+  "PreviewInSolutionExplorer": false
+}
